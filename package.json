@@ -1,0 +1,12 @@
+{
+  "name": "@braincube/icu-patcher",
+  "version": "1.0.0",
+  "description": "allows patching icu '.dat' binary with new timezone data",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Franck M",
+  "license": "MIT"
+}
