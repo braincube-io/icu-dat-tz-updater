@@ -4,7 +4,7 @@ Small node-js tool made for updating icu time-zone data inside a icudtlxx.dat fi
 
 ## Requirements
 
-1. Nodejs
+1. Nodejs 10/12 or more recent
 
 1. apt-get install icu-devtools ( `icupkg` should be in your path)
 
